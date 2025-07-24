@@ -1,0 +1,2 @@
+# Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Advanced-Machine-Learning-Techniques
+PatternSense is a deep learning-based fabric classification system that analyzes fabric images to identify patterns such as stripes, checks, floral, and abstract designs. It leverages convolutional neural networks (CNNs) for accurate, automated classification, aiding textile industries in quality control and inventory management.
